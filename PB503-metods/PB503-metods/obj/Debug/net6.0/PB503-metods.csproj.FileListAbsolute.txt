@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\PB503-metods\PB503-metods\bin\Debug\net6.0\PB503-metods.exe
+C:\Users\ASUS\source\repos\PB503-metods\PB503-metods\bin\Debug\net6.0\PB503-metods.deps.json
+C:\Users\ASUS\source\repos\PB503-metods\PB503-metods\bin\Debug\net6.0\PB503-metods.runtimeconfig.json
+C:\Users\ASUS\source\repos\PB503-metods\PB503-metods\bin\Debug\net6.0\PB503-metods.dll
+C:\Users\ASUS\source\repos\PB503-metods\PB503-metods\bin\Debug\net6.0\PB503-metods.pdb
+C:\Users\ASUS\source\repos\PB503-metods\PB503-metods\obj\Debug\net6.0\PB503-metods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\PB503-metods\PB503-metods\obj\Debug\net6.0\PB503-metods.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\PB503-metods\PB503-metods\obj\Debug\net6.0\PB503-metods.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\PB503-metods\PB503-metods\obj\Debug\net6.0\PB503-metods.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\PB503-metods\PB503-metods\obj\Debug\net6.0\PB503-metods.dll
+C:\Users\ASUS\source\repos\PB503-metods\PB503-metods\obj\Debug\net6.0\refint\PB503-metods.dll
+C:\Users\ASUS\source\repos\PB503-metods\PB503-metods\obj\Debug\net6.0\PB503-metods.pdb
+C:\Users\ASUS\source\repos\PB503-metods\PB503-metods\obj\Debug\net6.0\PB503-metods.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\PB503-metods\PB503-metods\obj\Debug\net6.0\ref\PB503-metods.dll
